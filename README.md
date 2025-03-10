@@ -97,6 +97,8 @@ This prevents unnecessary page reloads when updating the database.
 - Vite
 - Tailwind CSS
 - JSON Server
+- TypeScript
+
 
 
 
