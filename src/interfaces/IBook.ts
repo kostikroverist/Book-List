@@ -4,8 +4,8 @@ export interface Book {
   author: string;
   category: string;
   isbn: string;
-  createdAt: string; // ISO date string
-  editedAt?: string | null; // ISO date string | undefined
+  createdAt: string; 
+  editedAt?: string | null; 
   isActive: boolean;
 }
 
