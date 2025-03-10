@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsbyssss",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classic",
+      "isbn": "9780743273565",
+      "createdAt": "2025-03-08T08:35:00Z",
+      "editedAt": "2025-03-09T13:33:35.557Z",
+      "isActive": false
+    },
+    {
+      "id": "75ef",
+      "title": "123123",
+      "author": "12321312",
+      "category": "Sci-Fi",
+      "isbn": "123-1-31-232132-2",
+      "createdAt": "2025-03-10T11:26:38.917Z",
+      "editedAt": "2025-03-10T11:27:00.965Z",
+      "isActive": true
+    },
+    {
+      "id": "e0f2",
+      "title": "12123",
+      "author": "123",
+      "category": "Classic",
+      "isbn": "123-2-13-232131-2",
+      "createdAt": "2025-03-10T12:16:24.658Z",
+      "editedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "2466",
+      "title": "123213",
+      "author": "12312",
+      "category": "Sci-Fi",
+      "isbn": "212-3-13-123213-1",
+      "createdAt": "2025-03-10T12:16:32.924Z",
+      "editedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "c08e",
+      "title": "2132",
+      "author": "3123",
+      "category": "Classic",
+      "isbn": "121-3-21-313321-3",
+      "createdAt": "2025-03-10T12:16:50.782Z",
+      "editedAt": null,
+      "isActive": true
+    },
+    {
+      "id": "6360",
+      "title": "3232",
+      "author": "3232",
+      "category": "Sci-Fi",
+      "isbn": "232-3-23-232323-2",
+      "createdAt": "2025-03-10T12:17:01.372Z",
+      "editedAt": null,
+      "isActive": true
+    }
+  ]
+}
