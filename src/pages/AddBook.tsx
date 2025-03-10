@@ -28,7 +28,7 @@ const AddBook = () => {
       getBookById(id);
     }
   }, [id]);
-  console.log('ss')
+  
   useEffect(() => {
     if (book) {
       setFormData({
